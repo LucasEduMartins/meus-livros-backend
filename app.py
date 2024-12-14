@@ -27,7 +27,7 @@ app = OpenAPI(__name__, info=info)
 CORS(app)
 
 # Create the tags for documentation
-book_tag = Tag(name="book", description="Some Book")
+book_tag = Tag(name="book", description="Book Routes")
 
 # Create the book DTOs
 class BookBody(BaseModel):
@@ -91,7 +91,7 @@ def delete_book(path: BookPath):
     return jsonify({"message": "Livro não encontrado"}), 404
 
 
-comment_tag = Tag(name="comment", description="Some Comment")
+comment_tag = Tag(name="comment", description="Comment Routes")
 
 class CommentBody(BaseModel):
     comment: str 

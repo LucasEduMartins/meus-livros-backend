@@ -32,7 +32,6 @@ Projeto criado como MVP da sprint: Desenvolvimento Full Stack Básico da pós gr
 
 ```bash
 git clone https://github.com/LucasEduMartins/meus-livros-backend.git
-cd api-livros
 ```
 
 2. Crie um ambiente virtual e ative-o:

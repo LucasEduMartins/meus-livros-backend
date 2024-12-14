@@ -11,12 +11,11 @@ Projeto criado como MVP da sprint: Desenvolvimento Full Stack Básico da pós gr
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Principais Utilizadas
 
 - **Python 3.x**
 - **Flask**
-- **Flask-SQLAlchemy** (para banco de dados)
-- **SQLite** (ou outro banco de dados relacional à sua escolha)
+- **SQLite**
 
 ---
 

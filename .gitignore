@@ -1,0 +1,14 @@
+# Ignorar diretórios e arquivos gerados pelo Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+env/
+venv/
+
+# Base de dados
+database*
+
+# Arquivos de configuração do IDE/editor
+.vscode/
+.idea/

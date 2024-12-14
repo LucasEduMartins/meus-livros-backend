@@ -1,14 +1,13 @@
-# 📚 API de Cadastro de Livros e Comentários
+# 📚 Projeto Meus Livros ( Backend )
 
 Esta é uma API desenvolvida em Python utilizando o framework Flask. Ela permite cadastrar livros e adicionar comentários relacionados a cada livro.
 
+Projeto criado como MVP da sprint: Desenvolvimento Full Stack Básico da pós graduação em engenharia de software da PUC-Rio.
+
 ## 🚀 Funcionalidades
 
-- **Cadastrar Livros**: Adicione livros com informações básicas como título e autor.
-- **Listar Livros**: Consulte todos os livros cadastrados.
+- **Cadastrar Livros**: Adicione livros com informações básicas.
 - **Adicionar Comentários**: Associe comentários a livros específicos.
-- **Listar Comentários**: Consulte todos os comentários relacionados a um livro.
-- **Excluir Livros e Comentários**: Remova livros ou comentários da base de dados.
 
 ---
 
@@ -33,7 +32,7 @@ Esta é uma API desenvolvida em Python utilizando o framework Flask. Ela permite
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/api-livros.git
+git clone https://github.com/LucasEduMartins/meus-livros-backend.git
 cd api-livros
 ```
 
@@ -58,6 +57,8 @@ python app.py
 ```
 
 A API estará disponível em http://127.0.0.1:5000.
+
+---
 
 ## 📦 Documentação da API
 

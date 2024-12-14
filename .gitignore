@@ -7,7 +7,7 @@ env/
 venv/
 
 # Base de dados
-database*
+database.db
 
 # Arquivos de configuração do IDE/editor
 .vscode/
